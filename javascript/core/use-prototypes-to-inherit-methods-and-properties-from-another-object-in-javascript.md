@@ -1,4 +1,4 @@
-# Use prototypes to create class-like objects in JavaScript
+# Use prototypes to create class-like inheritance in JavaScript
 
 slug: js.prototype-inherit
 

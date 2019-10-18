@@ -3,15 +3,16 @@
 slug: web.layout-html
 
 ## Description
-todo
+This covers handling layout concerns with HTML.
 
 ---
 ## Assessment Requirements
 In order to fully cover this standard, a performance must be recording for each of the following objectives:
 
-- Objectives
-- Go
-- Here
+0. Arrange elements on the page vertically with block-level elements
+1. Use break elements (br, hr, etc) to separate elements vertically
+2. Arrange elements on the page vertically and horizontally with tables
+3. Use inline elements to affect spacing and sizing
 
 
 ---

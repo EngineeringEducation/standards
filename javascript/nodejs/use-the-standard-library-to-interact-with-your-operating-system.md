@@ -16,5 +16,6 @@ In order to fully cover this standard, a performance must be recording for each 
 4. Use the standard library to encrypt and decrypt data
 5. Use the standard library to manage child processes
 6. Use the standard library to monitor the running process
+7. Use the standard library to get information about the operating system
 
 ---

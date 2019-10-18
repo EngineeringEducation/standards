@@ -8,7 +8,6 @@ topic-namespace: web
 
 
 - [Identify and Evaluate the syntax of HTML](./web/html/identify-and-evaluate-the-syntax-of-html.md)
-- [Compose an HTML document with valid structure](./web/html/compose-an-html-document-with-valid-structure.md)
 - [Add metadata to HTML Documents](./web/html/add-metadata-to-html-documents.md)
 - [Use Semantic HTML to communicate about the structure of a document](./web/html/use-semantic-html-to-communicate-about-the-structure-of-a-document.md)
 - [Markup Text with HTML](./web/html/markup-text-with-html.md)

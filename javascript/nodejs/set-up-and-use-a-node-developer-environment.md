@@ -15,5 +15,6 @@ In order to fully cover this standard, a performance must be recording for each 
 3. Install a debugger for Node.js
 4. Install build tools for Node.js
 5. Use the `node` interpreter to execute JavaScript
+6. Set up a node debugging tool
 
 ---
